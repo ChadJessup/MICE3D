@@ -37,3 +37,5 @@ sysinfo.txt
 /MICE3D/Assets/Plugins/netstandard2.0
 /MICE3D/obj/Debug
 /MICE3D/Library/ScriptAssemblies
+/MICE3D/Temp
+/MICE3D/~Packages

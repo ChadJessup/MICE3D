@@ -61,6 +61,7 @@
     <Compile Include="Assets\Scripts\NESConsole.cs" />
     <Compile Include="Assets\Scripts\NesScreen.cs" />
     <Compile Include="Assets\Scripts\NintendoModule.cs" />
+    <Compile Include="Assets\Scripts\PaletteHandler.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/src/MICE3D/MICE3D/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
